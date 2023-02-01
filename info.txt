@@ -1,0 +1,12 @@
+-BD
+    -Que es una BD
+    -Que es una tabla
+    -Que es una consulta
+    -Que es un registro
+    -Que es una columna
+    -Que significa que 2 tablas se encuentren relacionadas
+    -Para que se usan las bases de datos
+    -que es el Modelo relacional
+    -que es Modelo entidad relacion
+    -Menciona 3 BD relacionales
+    -Menciona 3 BD no relacionales
