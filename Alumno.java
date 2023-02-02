@@ -5,7 +5,7 @@ class Alumno{
         this.nombre = nombre;
         materias = m;
     }
-    void verPromedio(){
+    public void verPromedio(){
         int total = 0;
         for(Materias m: materias){
             total += m.calificacion();
