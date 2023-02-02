@@ -1,5 +1,3 @@
-
-
 -La tabla se llama Persona y tiene las columnas id,nombre,apellidos,fechaNacimiento,fechaCaptura
 -La tabla se llama Carros y tiene las columnas id,marca,fechaCaptura,fechaEmision
 select * from Persona

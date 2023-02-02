@@ -16,4 +16,12 @@ class Alumno{
         System.out.println("Promedio: " + total/materias.length);
         //System.out.println("Promedio: " + total/materias.length + "/n");
     }
+    //Esta funcion es para asignar un valor a la variable
+    public void setNombre(String nombre){
+        this.nombre = nombre;
+    }
+    //Esta funcion es para obtener el nombre
+    public String getNombre(){
+        return nombre;
+    }
 }

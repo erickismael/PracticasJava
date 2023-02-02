@@ -1,4 +1,4 @@
--BD
++BD
     -Que es una BD
     -Que es una tabla
     -Que es una consulta
