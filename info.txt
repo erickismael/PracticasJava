@@ -10,3 +10,11 @@
     -que es Modelo entidad relacion
     -Menciona 3 BD relacionales
     -Menciona 3 BD no relacionales
++Java
+    -Encapsulamiento
+    -Modificadores de acceso
+    -Constructores
+    -
+
+
+https://melvinsalas.com/aaf576fb2c414f4f97ac24c1767c4d44
