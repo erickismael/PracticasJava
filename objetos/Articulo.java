@@ -1,4 +1,4 @@
-package ob;
+package objetos;
 public class Articulo{
     private String nombre;
     private int cantidad;
